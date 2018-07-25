@@ -1,0 +1,26 @@
+<div class="flex">
+      <div class="carte" id="carte1">
+        <img src="image/alien 6.png" alt="alien" class="imgalien">
+      <span>
+        <h2 class="Titre">Adric</h2>
+        <p class="Texte">
+          C'est un monstre qui vient de la planète Solaria. C'est un animal de compagnie qui vit exclusivement dans la végetations. Il ne perds pas
+ses poils. Ses caracteristiques lui valent d'ailleurs l'appellation de "meilleure atout pour chasser les oiseaux et les voleurs "
+        </p>
+        <a class="bouton" href="https://fr.wikipedia.org/wiki/Davros"> En savoir plus </a>
+      </span>
+      </div>
+
+      <div class="carte" id="carte2">
+        <img src="image/monstre 2.png" alt="alien" class="imgaliendeux">
+      <span>
+        <h2 class="Titre">Jarella</h2>
+        <p class="Texte">
+          C'est un monstre qui vient de la planète Arda. C'est un animal de compagnie qui vit exclusivement dans les cheminées. Il perd ses
+poils en été cela lui permettra d'avoir moins chaud. Ses caracteristiques lui valent d'ailleurs l'appelation de "meilleure atout
+pour ramoner la cheminée "
+        </p>
+        <a class="bouton" href="https://fr.wikipedia.org/wiki/Davros"> En savoir plus </a>
+      </span>
+      </div>
+    </div>
