@@ -1,6 +1,6 @@
 <div class="flex">
       <div class="carte" id="carte1">
-        <img src="image/alien 6.png" alt="alien" class="imgalien">
+        <img src="image/alien 5.png" alt="alien" class="imgalien">
       <span>
         <h2 class="Titre">Adric</h2>
         <p class="Texte">
@@ -12,7 +12,7 @@ ses poils. Ses caracteristiques lui valent d'ailleurs l'appellation de "meilleur
       </div>
 
       <div class="carte" id="carte2">
-        <img src="image/monstre 2.png" alt="alien" class="imgaliendeux">
+        <img src="image/alien 6.png" alt="alien" class="imgaliendeux">
       <span>
         <h2 class="Titre">Jarella</h2>
         <p class="Texte">
