@@ -1,6 +1,6 @@
     <div class="flex">
       <div class="carte" id="carte1">
-        <img src="image/alien 5.png" alt="alien" class="imgalien">
+        <img src="image/alien 3.png" alt="alien" class="imgalien">
       <span>
         <h2 class="Titre">Larrin</h2>
         <p class="Texte">
