@@ -1,0 +1,11 @@
+HTML
+<img src="image/flèches.png" alt="flèche" class="arrow">
+
+CSS
+
+.arrow {
+  margin-left: 880px;
+  margin-top: 50px;
+  width: 80px;
+  height: 80px;
+}
