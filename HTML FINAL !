@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Montrome</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+
+  <div class="header">
+          <img src="images/logo 2.jpg" alt="logo" class="logo">
+          <div id="header" class="header">
+            <nav class="menu">
+              <ul>
+                <li><a href="http://www.barachampagnelolita.be/fr/l-etablissement">HOME</a></li>
+                <li><a href="http://www.coach-seduction.com/">SERVICES</a></li>
+                <li><a href="https://play.google.com/store/apps/details?id=com.tinder&hl=fr">MONSTRES</a></li>
+              </ul>
+            </nav>
+          </div>
+          <div class="searchbox">
+            <searchbox role="search" mode="legacy">
+                    <form name="barre" action="/results">
+                      <input placeholder="Recherche">
+                      </input>
+                    </form>
+                  </searchbox>
+          </div>
+        </div>
+          <div class="lanceur">
+            <h1 class="LANCEMENT">LANCEMENT MONSTER TO :</h1>
+            <p class="compteur">10</p>
+            <img src="images/vaisseau.png" alt="vaisseau qui s'envole" class="vaisseau">
+          </div>
+
+          <div class="bleu">
+                    <a href="#ancre1"><img src="images/flèches.png" alt="flèche" class="flèches"></a>
+          </div>
+
+  <div class="global" id="ancre1">
+   <div class="carte">
+    <img class="alien" src="images/alien 1.png" alt="alien">
+    <span>
+      <h2 class="nom">Davros</h2>
+      <p> C'est un monstre qui vient de la planète Fonceria. C'est un monstre qui vit exclusivement dans les bagnoires ou les
+piscines. Il ne perd pas ses poils car il n'en a pas. Ses caracteristiques lui valent d'ailleurs l'appellation de "meilleur atout pour
+nettoyer les toilettes"
+      </p>
+      <a class="bouton" href="https://fr.wikipedia.org/wiki/Davros"> En savoir plus </a>
+      <a href="page2.html"><img src="images/caddie.png" alt="achat" class="caddie"> </a>
+    </span>
+  </div>
+
+  <div class="carte" >
+    <img class="alien" src="images/alien 2.png" alt="alien" class="alien">
+    <span>
+      <h2 class="nom">Poky</h2>
+      <p> C'est un monstre qui vient de la planète Norn. C'est un monstre qui permet d'encourager votre enfant à économiser grâce à sa fente bien dimensionnée. Ses caracteristiques lui valent d'ailleurs l'appellation de "meilleur atout pour les radins".
+      </p>
+      <a class="bouton" href="https://fr.wikipedia.org/wiki/Poky"> En savoir plus </a>
+      <a href="page3.html"><img src="images/caddie.png" alt="achat" class="caddie"> </a>
+    </span>
+  </div>
+  <a href="#ancre2"><img src="images/flèches.png" alt="flèche" class="flèches"></a>
+  <div class="bleu">
+  </div>
+ </div>
+
+ <div class="global2" id="ancre2">
+  <div class="carte">
+   <img class="alien" src="images/alien 3.png" alt="alien">
+   <span>
+     <h2 class="nom">Larrin</h2>
+     <p>  C'est un monstre qui vient de la planète Vinéa. C'est un monstre effrayé contenant une poche de rangement pour ranger ses trésors.
+       Ses caracteristiques lui valent d'ailleurs l'appellation de "meilleur atout
+pour dormir moins seul"
+     </p>
+     <a class="bouton" href="https://fr.wikipedia.org/wiki/Larrin"> En savoir plus </a>
+     <a href="page4.html"><img src="images/caddie.png" alt="achat" class="caddie"> </a>
+   </span>
+ </div>
+
+ <div class="carte" >
+   <img class="alien" src="images/alien 4.png" alt="alien" class="alien">
+   <span>
+     <h2 class="nom">Boe</h2>
+     <p> C'est un monstre qui vient de la planète Bizarro World. Peut-être utilisé pour retenir de grosse quantité d'eau ou autre... Peut aussi être utilisé comme
+       perruque.
+Ses caracteristiques lui valent d'ailleurs l'appellation de "meilleur atout pour nettoyer vos sols et pour changer de coupe "
+     </p>
+     <a class="bouton" href="https://fr.wikipedia.org/wiki/Face_de_Boe"> En savoir plus </a>
+     <a href="page5.html"><img src="images/caddie.png" alt="achat" class="caddie"> </a>
+   </span>
+ </div>
+ <div class="bleu">
+           <a href="#ancre3"><img src="images/flèches.png" alt="flèche" class="flèches"></a>
+ </div>
+</div>
+
+<div class="global" id="ancre3">
+ <div class="carte">
+  <img class="alien" src="images/alien 5.png" alt="alien">
+  <span>
+    <h2 class="nom">Adric</h2>
+    <p>  C'est un monstre qui vient de la planète Solaria. Adric est une serviette capable de calculer votre degré d’humidité et de vous sécher en conséquence. Adric découvrit les joints et se mit a divaguer, on le voit donc régulièrement en train de se défoncer en fumant des bons gros joints. Ses caracteristiques lui valent d'ailleurs l'appellation de "meilleur atout pour se défoncer et se sécher "
+    </p>
+    <a class="bouton" href="https://fr.wikipedia.org/wiki/Adric"> En savoir plus </a>
+    <a href="page6.html"><img src="images/caddie.png" alt="achat" class="caddie"> </a>
+  </span>
+</div>
+
+<div class="carte" >
+  <img class="alien" src="images/alien 6.png" alt="alien" class="alien">
+  <span>
+    <h2 class="nom">Jarella</h2>
+    <p> C'est un monstre qui vient de la planète Arda. Jarella ne peut pas s'empêcher de chanter. S'il se fait agresser, il entame une berceuse qui endort immédiatement son ennemi, et en profite pour prendre la fuite en roulant. Quand il chante, ses oreilles son automatiquement bouchées car sinon, il s'endormirait lui-même. Ses caracteristiques lui valent d'ailleurs l'appelation de "meilleur atout
+pour animer vos soirées karaoké "
+    </p>
+    <a class="bouton" href="https://fr.wikipedia.org/wiki/Jarella"> En savoir plus </a>
+    <a href="page7.html"><img src="images/caddie.png" alt="achat" class="caddie"> </a>
+  </span>
+</div>
+<div class="bleu">
+          <a href="#header"><img src="images/flècheh.png" alt="flèche" class="flèches"></a>
+</div>
+</div>
+
+<script src="scripts/script.js"> </script>
+
+</body>
+</html>
