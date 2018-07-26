@@ -34,13 +34,10 @@
          <span>
            <h2 class="nom">Poky</h2>
            <img class="star" src="images/star.png" alt="star">
-           <p> Meilleur atout pour laver les vitres 8€/heure
+           <p> Meilleur atout pour les radins 19,99€
+             <br/> Livraison gratuite dès 25€ d'achat
            </p>
            <a class="bouton" href="https://www.amazon.fr/Tirelire-Monstre-enfants-filles-gar%C3%A7ons/dp/B00JR4EC0Y/ref=sr_1_11?s=toys&ie=UTF8&qid=1532607415&sr=1-11&keywords=monstre+bleu"> Acheter </a>
          </span>
        </div>
      </div>
-
-
-</body>
-</html>
