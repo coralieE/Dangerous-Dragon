@@ -1,0 +1,86 @@
+/* Retire les marges de la page entière*/
+html, body {
+ margin:0;
+ padding:0;
+ }
+
+/* taille des aliens*/
+.alien {
+  width: 350px;
+  height: 350px;
+}
+
+.bleu{
+  background-color: #D0E7F9;
+}
+
+/* papramètres du bouton*/
+.bouton{
+  background-color: #A2CCED;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.bouton:hover{
+  color: #D0A9F5;
+  font-size: 35px;
+  transition-duration: 1s;
+  border-style: solid;
+  background: none;
+}
+
+.caddie{
+  width: 40px;
+  height: 30px;
+  display: inline-block;
+  margin-left: 50px;
+}
+
+/* papramètres des cartes */
+.carte {
+  display: inline-flex;
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  margin-right: 50px;
+  margin-left: 50px;
+  padding-right: 50px;
+}
+
+.compteur{
+  color: black;
+  text-align: center;
+  border-style: solid;
+  width: 500px;
+  margin: 0 auto;
+  font-size: 90px;
+}
+
+/* papramètres flèches*/
+.flèches{
+  width: 50px;
+  height: 50px;
+  margin-left: 50%;
+}
+
+/* div qui englobe 2 cartes*/
+.global {
+ background-color: #EBCFCF;
+}
+
+/* idem */
+.global2 {
+  background-color: #D0E7F9;
+ }
+
+ h1{
+   font-size: 40px;
+   color: black;
+   font-family: fantasy;
+   text-align: center;
+   margin: 30px;
+ }
