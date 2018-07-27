@@ -1,6 +1,0 @@
-<searchbox role="search" mode="legacy">
-        <form name="barre" action="/results">
-          <input placeholder="Recherche">
-          </input>
-        </form>
-      </searchbox>
