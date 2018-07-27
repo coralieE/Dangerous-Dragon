@@ -2,13 +2,13 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Montrome</title>
+  <title>Monstrome</title>
   <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
 
   <div class="header">
-          <img src="images/logo 2.jpg" alt="logo" class="logo">
+          <img src="images/logo 2.png" alt="logo" class="logo">
           <div id="header" class="header">
             <nav class="menu">
               <ul>
@@ -37,6 +37,7 @@
              <br/> Livraison : 7,90€
            </p>
            <a class="bouton" href="https://www.ebay.fr/itm/enorme-SouthPark-Servietsky-de-bain-Cartman-Kenny-Cartoon-DROLE-VACANCES-/202370993393"> Acheter </a>
+           <a class="pp" href="http://urlz.fr/7tWC"><img src="images/pp.png" alt="paypal" > </a>
          </span>
        </div>
      </div>
