@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Monstrome</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+
+  <div class="header">
+          <img src="images/logo 2.png" alt="logo" class="logo">
+          <div id="header" class="header">
+            <nav class="menu">
+              <ul>
+                <li><a href="http://www.barachampagnelolita.be/fr/l-etablissement">HOME</a></li>
+                <li><a href="http://www.coach-seduction.com/">SERVICES</a></li>
+                <li><a href="https://play.google.com/store/apps/details?id=com.tinder&hl=fr">MONSTRES</a></li>
+              </ul>
+            </nav>
+          </div>
+          <div class="searchbox">
+            <searchbox role="search" mode="legacy">
+                    <form name="barre" action="/results">
+                      <input placeholder="Recherche">
+                      </input>
+                    </form>
+                  </searchbox>
+          </div>
+        </div>
+<div class="global2" id="ancre2">
+        <div class="carte" >
+   <img class="alien" src="images/alien 4.png" alt="alien" class="alien">
+   <span>
+     <h2 class="nom">Boe</h2>
+
+           <img class="star" src="images/star.png" alt="star">
+           <p> Meilleur atout pour nettoyer vos sols et pour changer de coupe 4,81€
+             <br/> Livraison gratuite
+           </p>
+           <a class="bouton" href="https://www.amazon.fr/sourcingmap%C2%AE-Poignets-serpill%C3%A8re-microfibre-Chaussons/dp/B00HR4XUO0/ref=sr_1_1?s=toys&ie=UTF8&qid=1532608194&sr=8-1&keywords=sourcingmap+poignet+stretch+orange+serpillere"> Acheter </a>
+           <a class="pp" href="http://urlz.fr/7tWC"><img src="images/pp.png" alt="paypal" > </a>
+         </span>
+       </div>
+     </div>
+   </div>
+
+
+</body>
+</html>
