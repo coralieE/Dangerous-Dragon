@@ -49,6 +49,7 @@ html, body {
   margin-right: 50px;
   margin-left: 50px;
   padding-right: 50px;
+  padding-bottom: 80px;
 }
 
 .compteur{
@@ -155,6 +156,12 @@ p {
   text-align: justify;
   font-family: "verdana";
   margin-bottom: 50px;
+}
+
+.pp img {
+  width: 150px;
+  height: 25px;
+  margin-left: 50px;
 }
 
 .searchbox{
