@@ -2,13 +2,13 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Montrome</title>
+  <title>Monstrome</title>
   <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
 
   <div class="header">
-          <img src="images/logo 2.jpg" alt="logo" class="logo">
+          <img src="images/logo 2.png" alt="logo" class="logo">
           <div id="header" class="header">
             <nav class="menu">
               <ul>
@@ -37,6 +37,7 @@
              <br/> Livraison gratuite dès 25€ d'achat
            </p>
            <a class="bouton" href="https://www.amazon.fr/Sanei-Pok%C3%A9mon-5-Jigglypuff-Plush/dp/B015XSPF1M/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1532608833&sr=1-1-catcorr&keywords=rondoudou"> Acheter </a>
+           <a class="pp" href="http://urlz.fr/7tWC"><img src="images/pp.png" alt="paypal" > </a>
          </span>
        </div>
      </div>
