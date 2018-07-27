@@ -2,13 +2,13 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Montrome</title>
+  <title>Monstrome</title>
   <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
 
   <div class="header">
-          <img src="images/logo 2.jpg" alt="logo" class="logo">
+          <img src="images/logo 2.png" alt="logo" class="logo">
           <div id="header" class="header">
             <nav class="menu">
               <ul>
@@ -38,6 +38,7 @@
              <br/> Livraison gratuite dès 25€ d'achat
            </p>
            <a class="bouton" href="https://www.amazon.fr/Hana-Zuki-B8375EP20-Peluche-Hemka/dp/B06X9TSMFC/ref=sr_1_1?s=toys&ie=UTF8&qid=1532607883&sr=1-1&keywords=peluche+vert+pomme"> Acheter </a>
+           <a class="pp" href="http://urlz.fr/7tWC"><img src="images/pp.png" alt="paypal" > </a>
          </span>
        </div>
      </div>
