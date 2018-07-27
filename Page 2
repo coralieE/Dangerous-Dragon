@@ -2,13 +2,13 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Montrome</title>
+  <title>Monstrome</title>
   <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
 
   <div class="header">
-          <img src="images/logo 2.jpg" alt="logo" class="logo">
+          <img src="images/logo 2.png" alt="logo" class="logo">
           <div id="header" class="header">
             <nav class="menu">
               <ul>
@@ -40,6 +40,6 @@
         <br/> Livraison gratuite dès 25€ d'achat
       </p>
       <a class="bouton" href="https://www.amazon.fr/Peluche-Pieuvre-rouge-20-cm/dp/B00TA2N3W6/ref=sr_1_1_sspa?ie=UTF8&qid=1532606659&sr=8-1-spons&keywords=pieuvre&psc=1"> Acheter </a>
-
+      <a class="pp" href="http://urlz.fr/7tWC"><img src="images/pp.png" alt="paypal" ></a>
     </span>
   </div>
